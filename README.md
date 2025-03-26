@@ -1,6 +1,6 @@
 <div align="center">
   
-# Welcome to Snorlax's Cave!
+
 Snorlax's Cave is a UV built proxy and game site **(v2.0 Release)**
 </div>
 
